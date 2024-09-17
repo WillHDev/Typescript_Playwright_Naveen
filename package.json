@@ -1,0 +1,16 @@
+{
+  "name": "typescript-playwright-naveen",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.47.1",
+    "@types/node": "^22.5.5",
+    "playwright": "^1.47.1",
+    "typescript": "^5.6.2"
+  }
+}

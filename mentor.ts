@@ -1,0 +1,1 @@
+const loginButton:Locator = page.getByRole( 'button', { type: 'submit' }).click();
