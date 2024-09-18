@@ -1,0 +1,1 @@
+//const title = await loginPage.page.title();   - .page

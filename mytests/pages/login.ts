@@ -6,7 +6,7 @@ export class LoginPage {
   readonly password: Locator;
   readonly submitBtn: Locator;
 
-  constructor(page: Page) {
+  constructor(page: Page, isMobile: boolean | undefined) {
     this.page = page;
     this.username = page.getByPlaceholder('Username');
     this.password = page.getByPlaceholder('Password');
