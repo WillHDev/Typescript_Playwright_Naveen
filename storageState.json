@@ -1,0 +1,45 @@
+{
+  "cookies": [
+    {
+      "name": "Loggedin",
+      "value": "True",
+      "domain": "william77-trials714.orangehrmlive.com",
+      "path": "/auth",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "orangehrmSecurityAuthentication_LoginLocationTracker",
+      "value": "e3afed0047b08059d0fada10f400c1e5",
+      "domain": "william77-trials714.orangehrmlive.com",
+      "path": "/",
+      "expires": 1761288649.10038,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "orangehrm",
+      "value": "skqkm622vrj8ipqe6v6a3jlojm1u3vafeu6mg6842klt981jada4a98a5lrn5qbo2pfqf065qfltntu0vrtcs0ihn0m3oh09rsvvkv3e4m9j6ftobm253le39g3omfd5",
+      "domain": "william77-trials714.orangehrmlive.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "navigation_log_latest_url",
+      "value": "%2Fauth%2Flogin",
+      "domain": "william77-trials714.orangehrmlive.com",
+      "path": "/",
+      "expires": 1726815049.101294,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": []
+}
