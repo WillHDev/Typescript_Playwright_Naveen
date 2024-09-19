@@ -15,11 +15,6 @@ export class GeneralRequests {
     await this.page.goto('https://william77-trials714.orangehrmlive.com');
   }
 
-//   async login(username: string, password: string) {
-//     await this.username.fill(username);
-//     await this.password.fill(password);
-//     await this.submitBtn.press('Enter');
-//   }
 }
 
 
